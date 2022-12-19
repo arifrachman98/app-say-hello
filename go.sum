@@ -2,3 +2,5 @@ github.com/arifrachman98/say-hello v1.0.0 h1:yIESXYFtFRgOshlPqButXdDFES9/2701Owx
 github.com/arifrachman98/say-hello v1.0.0/go.mod h1:riWIPFtJDZfPQcTcoO5Bh3E1NC9IydXqBPaRox21+ck=
 github.com/arifrachman98/say-hello v1.1.0 h1:L9PV3zSj9ysgOCPZiUoVRnATwwVYdzksYhZgTaxmWQA=
 github.com/arifrachman98/say-hello v1.1.0/go.mod h1:riWIPFtJDZfPQcTcoO5Bh3E1NC9IydXqBPaRox21+ck=
+github.com/arifrachman98/say-hello/v2 v2.0.0 h1:NRZ9AP0siA+b+441aQWiGRaXc2zGFQsopJAQkHx4Okg=
+github.com/arifrachman98/say-hello/v2 v2.0.0/go.mod h1:d28OrB331I0ZoQj7gq1xvuqilp8YMyj5WA0hKuZmXe0=
